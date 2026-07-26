@@ -316,7 +316,7 @@ A comprehensive **progress screen** where users can:
 - Track sobriety streaks with visual calendar
 - Check off sober days and celebrate milestones
 - View mental health trends over time (anxiety, stress, depression patterns)
-- Earn **"Campus Bucks"** or similar incentives when reaching sobriety goals
+- Earn incentives when reaching sobriety goals
 
 **Challenges to solve**: 
 - Honor system integrity: How to incentivize honesty while preventing abuse
@@ -327,7 +327,7 @@ A comprehensive **progress screen** where users can:
 
 ### 3. Peer Support Forum
 
-A **student-focused forum** modeled after Reddit where users can:
+A forum modeled after Reddit where users can:
 
 - Share experiences and coping strategies anonymously
 - Discuss mental health challenges in a safe, moderated space
